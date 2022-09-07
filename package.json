@@ -1,6 +1,6 @@
 {
-    "name": "atom-gif-cards1",
-    "main": "./lib/atom-gif-cards",
+    "name": "atom-gif",
+    "main": "./lib/atom-gif",
     "version": "1.0.0",
     "description": "A short description of your package",
     "keywords": [
