@@ -1,16 +1,16 @@
 {
-  "name": "No1ufa11122",
-  "theme": "syntax",
-  "version": "1.4.0",
-  "description": "ยูฟ่าเบทที่กล้าให้คุณมากกว่าที่อื่นเรารับประกันได้เลย สำหรับเว็บไซต์ no1ufa",
-  "keywords": [
-    "ufabet168",
-    "แทงบอล",
-    "ufa"
-  ],
-  "repository": "https://github.com/Max10055/atom",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "meawa111",
+    "theme": "meawa111",
+    "version": "1.0.0",
+    "description": "ยูฟ่าเบทที่กล้าให้คุณมากกว่าที่อื่นเรารับประกันได้เลย สำหรับเว็บไซต์ no1ufa",
+    "keywords": [
+        "ufabet168",
+        "แทงบอล",
+        "ufa"
+    ],
+    "repository": "https://github.com/Riveany/programmer",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
