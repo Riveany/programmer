@@ -1,28 +1,16 @@
 {
-    "name": "atom-gif",
-    "main": "./lib/atom-gif",
-    "version": "1.0.0",
-    "description": "A short description of your package",
-    "keywords": [
-        "gifs",
-        "gif search",
-        "funny"
-    ],
-    "activationCommands": {
-        "atom-workspace": "atom-gif-cards:toggle"
-    },
-    "repository": "https://github.com/Riveany/programmer",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {
-        "react": "^16.2.0",
-        "react-dom": "^16.2.0",
-        "react-gif-search": "0.0.7",
-        "styled-components": "^3.2.1"
-    },
-    "devDependencies": {
-        "prettier": "^1.11.1"
-    }
+  "name": "No1ufa11122",
+  "theme": "syntax",
+  "version": "1.4.0",
+  "description": "ยูฟ่าเบทที่กล้าให้คุณมากกว่าที่อื่นเรารับประกันได้เลย สำหรับเว็บไซต์ no1ufa",
+  "keywords": [
+    "ufabet168",
+    "แทงบอล",
+    "ufa"
+  ],
+  "repository": "https://github.com/Max10055/atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
