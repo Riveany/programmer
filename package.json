@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "IMBA8",
     "theme": "IMBA8",
     "version": "17.8.0",
@@ -10,6 +11,19 @@
         "IMBA8 slot",
         "IMBA8 สล็อต",
         "IMBA8 wallet"
+=======
+    "name": "ํYOUNG1234",
+    "theme": "YOUMNG123",
+    "version": "17.8.0",
+    "description": "YOUMNG123 สล็อตเว็บตรง wallet แจกเครดิตฟรี",
+    "keywords": [
+        "YOUMNG123",
+        "YOUMNG123 ทางเข้า",
+        "YOUMNG123 เครดิตฟรี",
+        "YOUMNG123 slot",
+        "YOUMNG123 สล็อต",
+        "YOUMNG123 wallet"
+>>>>>>> 865ed2fa1bddcde4b7ed09f9e54269c560cd6c23
     ],
     "repository": "https://github.com/Riveany/programmer",
     "license": "MIT",
